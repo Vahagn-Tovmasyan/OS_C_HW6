@@ -84,8 +84,11 @@ All values above are in bytes.
 Packing changes alignment constraints, not individual data type sizes. It can save memory but may produce unaligned fields and less efficient access. In the `pack(1)` result, `int` and `double` do not satisfy their normal alignment requirements.
 
 These results describe the tested server. Absolute addresses may change between runs.
+
 <img width="519" height="79" alt="image" src="https://github.com/user-attachments/assets/0b11b8eb-2e7f-4021-9f12-2e55b2bfbbaa" />
+
 <img width="354" height="255" alt="image" src="https://github.com/user-attachments/assets/c239ed79-8a2d-430b-86c5-9b55fc5e176b" />
+
 <img width="433" height="361" alt="image" src="https://github.com/user-attachments/assets/9bb28c4e-8486-4c44-a5d5-9d9ba5a68efb" />
 
 
